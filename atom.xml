@@ -4,7 +4,7 @@
   <title><![CDATA[Green Zhuyuan]]></title>
   <link href="http://meatballsoup.github.io/atom.xml" rel="self"/>
   <link href="http://meatballsoup.github.io/"/>
-  <updated>2014-02-25T23:14:30+08:00</updated>
+  <updated>2014-02-25T23:18:23+08:00</updated>
   <id>http://meatballsoup.github.io/</id>
   <author>
     <name><![CDATA[meatball]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://meatballsoup.github.io/blog/2014/02/25/test/"/>
+    <updated>2014-02-25T23:16:45+08:00</updated>
+    <id>http://meatballsoup.github.io/blog/2014/02/25/test</id>
+    <content type="html"><![CDATA[<p><img src="src="source/images/001.jpg""></p>
+
+<p><img src="src="source/images/002.jpg""></p>
+
+<!--more-->
+
+
+<p><img src="src="source/images/003.jpg""></p>
+
+<p><img src="src="source/images/004.jpg""></p>
+
+<p><img src="src="source/images/005.jpg""></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[健康地生活着]]></title>
@@ -237,15 +257,6 @@
     <link href="http://meatballsoup.github.io/blog/2014/02/23/so-cold/"/>
     <updated>2014-02-23T02:34:45+08:00</updated>
     <id>http://meatballsoup.github.io/blog/2014/02/23/so-cold</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[it's so wet]]></title>
-    <link href="http://meatballsoup.github.io/blog/2014/02/23/its-so-wet/"/>
-    <updated>2014-02-23T02:30:19+08:00</updated>
-    <id>http://meatballsoup.github.io/blog/2014/02/23/its-so-wet</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
