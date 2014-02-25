@@ -4,7 +4,7 @@
   <title><![CDATA[Green Zhuyuan]]></title>
   <link href="http://meatballsoup.github.io/atom.xml" rel="self"/>
   <link href="http://meatballsoup.github.io/"/>
-  <updated>2014-02-25T23:07:45+08:00</updated>
+  <updated>2014-02-25T23:14:30+08:00</updated>
   <id>http://meatballsoup.github.io/</id>
   <author>
     <name><![CDATA[meatball]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[健康地生活着]]></title>
+    <link href="http://meatballsoup.github.io/blog/2014/02/25/healthy-life/"/>
+    <updated>2014-02-25T23:12:02+08:00</updated>
+    <id>http://meatballsoup.github.io/blog/2014/02/25/healthy-life</id>
+    <content type="html"><![CDATA[<p><img src="src="images/003.jpg""></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[sleeeeeepy]]></title>
