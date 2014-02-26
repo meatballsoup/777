@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://meatballsoup.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: {% img /images/logo.gif %}
+subtitle: Green life.
+author: meatball
 simple_search: http://google.com/search
 description:
 

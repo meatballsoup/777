@@ -1,0 +1,18 @@
+---
+layout: post
+title: "test"
+date: 2014-02-25 23:16:45 +0800
+comments: true
+categories: 
+---
+
+
+{% img src="source/images/001.jpg" %}
+
+{% img src="source/images/002.jpg" %}
+<!--more-->
+{% img src="source/images/003.jpg" %}
+
+{% img src="source/images/004.jpg" %}
+
+{% img src="source/images/005.jpg" %}

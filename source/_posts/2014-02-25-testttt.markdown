@@ -1,0 +1,20 @@
+---
+layout: post
+title: "testttt"
+date: 2014-02-25 23:48:45 +0800
+comments: true
+categories: 
+---
+
+
+{% img /images/006.jpg %}
+
+{% img /images/002.jpg %}
+
+{% img /images/003.jpg %}
+
+{% img /images/004.jpg %}
+
+{% img /images/005.jpg %}
+
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "绿色的风"
+date: 2014-02-25 22:28:14 +0800
+comments: true
+categories: 
+---
+
+{% img src="images/002.jpg" %}
+
+<!--more-->
+
+{% img src="images/003.jpg %}
+
