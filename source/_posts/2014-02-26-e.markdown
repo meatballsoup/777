@@ -1,0 +1,19 @@
+---
+layout: post
+title: "绿色生活"
+date: 2014-02-26 20:39:56 +0800
+comments: true
+categories: 
+---
+
+{% img /images/ad1.jpg %}
+
+<!--more-->{% img /images/more.gif %}
+
+{% img /images/ad2.jpg %}
+
+{% img /images/ad3.jpg %}
+
+{% img /images/ad4.jpg %}
+
+{% img /images/ad5.jpg %}
