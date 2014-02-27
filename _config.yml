@@ -101,3 +101,6 @@ facebook_like: false
 
 #comment and share                                                                                    
 comment_and_share: true
+
+# JiaThis
+jiathis: true
