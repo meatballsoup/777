@@ -1,0 +1,14 @@
+---
+layout: post
+title: "beauty"
+date: 2014-02-26 22:11:01 +0800
+comments: true
+categories: 
+---
+
+
+{% img /images/be1.jpg %}
+
+{% img /images/be2.jpg %}
+
+啥也不用说啦！
