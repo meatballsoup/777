@@ -4,7 +4,7 @@
   <title><![CDATA[zhuyuan]]></title>
   <link href="http://meatballsoup.github.io/atom.xml" rel="self"/>
   <link href="http://meatballsoup.github.io/"/>
-  <updated>2014-02-27T21:11:29+08:00</updated>
+  <updated>2014-02-27T21:15:04+08:00</updated>
   <id>http://meatballsoup.github.io/</id>
   <author>
     <name><![CDATA[meatball]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[testtest]]></title>
+    <link href="http://meatballsoup.github.io/blog/2014/02/27/testtest/"/>
+    <updated>2014-02-27T21:14:55+08:00</updated>
+    <id>http://meatballsoup.github.io/blog/2014/02/27/testtest</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
@@ -319,18 +328,6 @@
 <p>十、桂花树</p>
 
 <p>山谷深处的桂花树被人挖走了。那几天，山外的老板带了几十个民工进来，在山上劈了一条路，把几人合抱的老桂花树扛出村头，装上汽车，运到大城市卖出了高价。老板赚了十几万，怂恿挖树的人也得到不少好处费。而桂花树的主人，人们早已不记得是谁了，有人说，好象他孙子已搬到另外一个镇生活，掐指算来他孙子已有五十多岁了。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[b]]></title>
-    <link href="http://meatballsoup.github.io/blog/2014/02/25/b/"/>
-    <updated>2014-02-25T22:29:03+08:00</updated>
-    <id>http://meatballsoup.github.io/blog/2014/02/25/b</id>
-    <content type="html"><![CDATA[<p>[竹园]简介</p>
-
-<p>[竹园]位于广东梅州市区20多公里外的山谷（Green Valley）中，以经营纯天然绿色产品为主要业务，产品主要有蜂蜜、水果、中草药等，同时兼营餐饮、文化、娱乐、旅游等。[竹园]成立于1978年，至今已有30多年的历史了，秉持诚实守信、追求绿色、注重原生态的理念，提供质量上乘的产品。[竹园]蜂蜜有乌桕蜜、百花蜜、柃蜜等品种，均为[竹园]养蜂场的原产蜂蜜，富含人体必须的营养成份，没有任何添加剂，原汁原味，是甜蜜生活的保证。[竹园]蜂蜜有1个基地、4个销售点（穗、禅、深、梅）、50多名员工，业务以珠三角为主，辐射全国。[竹园]蜂蜜均由蜂场运至各销售点，保证送货上门，更多商品信息请进入[竹园]网店。》》》》》
-[竹园]各项事业蒸蒸日上，目前正筹建[竹园]大厦（Green Tower），作为办公大楼。希望大家继续关心支持[竹园]的发展，希望各方面的人才留意[竹园]的招聘，众人拾柴炉火旺，我们有理由相信，[竹园]的明天会更美好！</p>
 ]]></content>
   </entry>
   
