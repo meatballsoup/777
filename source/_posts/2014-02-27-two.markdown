@@ -1,0 +1,11 @@
+---
+layout: post
+title: "童年的回忆：鸡枞"
+date: 2014-02-27 22:18:58 +0800
+comments: true
+categories: 
+---
+
+{% img /images/num/recip_no_02.gif %}
+
+{% img /images/jizong.jpg %}
